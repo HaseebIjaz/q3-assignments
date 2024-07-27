@@ -1,9 +1,9 @@
 * Differentiate between AI, machine learning, deep learning, generative AI, and applied AI.  
-* Define Artificial General Intelligence (AGI) and outline the five steps to achieve super intelligence.  
-* Explain the concepts of training and inference in AI, and describe how GPUs or neural engines are utilized for these tasks.  
-* Describe neural networks, including an explanation of parameters and tokens.  
-* Provide an overview of Transformers, Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Long Short-Term Memory (LSTM) networks.  
-* Clarify what Large Language Models (LLMs) are, compare open-source and closed-source LLMs, and discuss how LLMs can produce hallucinations.  
-* Explain models, multimodal and foundation models, also discuss how they can be fine-tuned.  
-* Identify the key differences between CPUs, GPUs, and NPUs, and explain the major distinctions between x86 and ARM microprocessors.
+    * AI: AI is the simulation of human intelligence processes by machines, especially computer systems. It is the technology that allows you to generate , classify and 
+    perform tasks like image recognition and speech recignition
+    * Machine Learning : ML means gettgin computers to learn without being explicity programmed. It is a subset of AI that involves training algorithms to learn from data and make decisions and predictions based on that data
+    * Deep Learning: A subset of Mchine Learning which uses neural networks with many 
+    layes to analyze various types of data and significant amount of data.Neural Networks can be gone through supervised, unsupervised and reinforcement learning 
+    * Genrative AI: Generative AI refers to subset of AI that involves creating new content , such as images, text, music , and more , rather than simply analyzing or interpreting the data.
+    * Applied Generative AI: Leveraging pre-existing LLMS and foundational models to solve practial application problems by fine tunning them and integrating them in the application flows and existing business processes
 
